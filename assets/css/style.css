@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: url('http://arinmed.com/wp-content/uploads/2017/08/Depositphotos_13447161_original.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.game-title {
+    font-family: 'Dancing Script', cursive;
+    color: rgb(70, 159, 243);
+    font-size: 34px;
+    margin: 0;
+    padding: 5px;
+}
+
+.game-title h1 {
+    margin:0;
+}
